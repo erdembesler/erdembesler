@@ -47,6 +47,12 @@ AI-powered recruiting platform
 
 ---
 
+### 🔹 Roketsan — Software Developer 
+
+- Developed internal enterprise applications using .NET Framework and vanilla JavaScript  
+
+---
+
 ## 🛠 Tech Stack
 
 **Frontend**
